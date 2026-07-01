@@ -4,6 +4,8 @@ A Machine Learning project that predicts whether a disaster event is likely to b
 
 The project includes data preprocessing, model comparison, pipeline creation, and deployment using Streamlit.
 
+🔗 Live Demo: https://disaster-ml-project-efwbuahbb4sdhtwbtu6owd.streamlit.app/
+
 
 🧭 Project Overview
 
@@ -157,10 +159,15 @@ The model processes the inputs.
 The application predicts whether the disaster is a Major Disaster.
 
 
+
 👤 Author
 
 Varshini Boddu
 
 Machine Learning Enthusiast
 
-🔗 **Live Demo:** https://disaster-ml-project-efwbuahbb4sdhtwbtu6owd.streamlit.app/
+
+⭐ If you found this project useful, don't forget to star the repository!
+
+
+
